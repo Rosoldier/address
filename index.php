@@ -1,11 +1,11 @@
 <!DOCTYPE html>
- <html> 
-     <head> 
-     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script> 
+ <html>
+     <head>
+     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
      <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
      </head>
       <body>
-           <p>Address: 
+           <p>ADDRESS: 
                <div id="address"></div>
             </p>
              <script type="text/javascript" charset="utf-8">
@@ -57,6 +57,6 @@ function getCurrentAddress(location) {
 }
 });
     </script>
-        </body> 
-        
+        </body>
+
      </html>
