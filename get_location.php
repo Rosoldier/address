@@ -11,8 +11,8 @@
         }else{
             $location =  'No location found.';
         }
-        echo $location; 
-    } 
+        echo $location;
+    }
 ?>
 <?php
   $lat= 26.754347; //latitude
@@ -24,6 +24,6 @@
   }
   else
   {
-    echo "Not found";
+    echo "Not found.";
   }
 ?>
